@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb6bad7d0d644296a063e59584fc3504",
+    "_src_": "success_large_check.png",
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmSuccess2",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "successImage",
+    "imagescalemode": 0,
+    "info": null,
+    "invokedProperty": "src",
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "c8a200026ff14deb9f9a3c80b99f62f3",
+    "name": "kony.ui.Image2",
+    "parent": "successIcon",
+    "pf": "frmSuccess2",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

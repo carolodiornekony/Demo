@@ -1,0 +1,121 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "transparent_dropdown.png",
+    "__id": "frmAppointmentAddress_Calendar0aacc098676af4a",
+    "__input": "Calendar0aacc098676af4a",
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": "6/7/2017",
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": "6%",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_mode_": 0,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s527ed8a50ca4638aa8f482127714faf",
+    "_top_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "88%"
+    },
+    "advview": "default",
+    "calendaricon": "transparent_dropdown.png",
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "57%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "datecomponents": [
+        6,
+        7,
+        2017,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 6,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        7,
+        2017
+    ],
+    "entereddate": [
+        6,
+        7,
+        2017,
+        0,
+        0,
+        0
+    ],
+    "format": "dd/MM/yyyy",
+    "formatteddate": "06/07/2017",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "Calendar0aacc098676af4a",
+    "ide_onSelection": "AS_Calendar_cf074c5dda074db0930ee68330292bac",
+    "ide_onTouchStart": "AS_Calendar_c652f61081474481bd678ddcdd123895",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "mode": 0
+        }
+    },
+    "isvisible": true,
+    "kuid": "edf18568326140afb09db237196a3a81",
+    "minutes": 0,
+    "month": 7,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "pagedate": "/2017",
+    "parent": "flxMobileNumber",
+    "pf": "frmAppointmentAddress",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "seconds": 0,
+    "selectdate": "//2017",
+    "startDay": 0,
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": 2017,
+    "zindex": 1
+}

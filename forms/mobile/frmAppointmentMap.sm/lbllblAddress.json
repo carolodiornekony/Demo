@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saf6dbf5546b4ab2a0886846190d1f01",
+    "_text_": "TDECU HOUSTON MARATHON 5555 San Felipe Street #100 Houston, TX 77056 Tel: (800) 839-1154 Fax: (713) 623-6850",
+    "_top_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "86%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lbllblAddress",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "fcfe1c1a713944d78ab7ccf7181fcd31",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0f1185528679840",
+    "pf": "frmAppointmentMap",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

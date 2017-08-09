@@ -1,0 +1,24 @@
+{
+    "AS_Form_f5d1f23a29144f548e9ae80ded8bdb45": {
+        "id": "AS_Form_f5d1f23a29144f548e9ae80ded8bdb45",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSpalsh",
+            "type": "forms",
+            "platform": "",
+            "KUID": "he529211a0f34b359f9bd06956f8bac8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__af834111664242fc906a10891f2b94e5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.disappearLogin();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

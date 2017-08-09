@@ -1,0 +1,27 @@
+{
+    "AS_Calendar_cf074c5dda074db0930ee68330292bac": {
+        "id": "AS_Calendar_cf074c5dda074db0930ee68330292bac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "contextObj": {
+            "name": "frmAppointmentAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a3758b5b54ab478aaedf50138f0ecb13"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bd2c051ed28c493baa0d8c1d4ba568e5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onEndCal();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_b4a881adced24a688983c3213a4c9e78": {
+        "id": "AS_Button_b4a881adced24a688983c3213a4c9e78",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVerificationSuccessful",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a36998368e5d465d9a316e34e25076af"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__dcd523eacde24a959a283181529ae3c2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showAddressfrm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

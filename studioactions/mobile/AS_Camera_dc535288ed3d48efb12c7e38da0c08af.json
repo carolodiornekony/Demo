@@ -1,0 +1,24 @@
+{
+    "AS_Camera_dc535288ed3d48efb12c7e38da0c08af": {
+        "id": "AS_Camera_dc535288ed3d48efb12c7e38da0c08af",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBizCardInstructions",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jc11e6493ccf491ea39794b00698deb0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g912263cd0024824ac9f54c5c94c689c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCaptureCam();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

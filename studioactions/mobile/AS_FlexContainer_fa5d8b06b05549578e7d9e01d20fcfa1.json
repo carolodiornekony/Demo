@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_fa5d8b06b05549578e7d9e01d20fcfa1": {
+        "id": "AS_FlexContainer_fa5d8b06b05549578e7d9e01d20fcfa1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnterPIN",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b9b16bab57ac498fa57a998619333774"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g01cbe4f359d4c33bc9d5c25c6299d81",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navToPrevForm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

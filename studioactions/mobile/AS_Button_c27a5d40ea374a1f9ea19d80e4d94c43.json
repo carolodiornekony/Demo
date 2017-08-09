@@ -1,0 +1,23 @@
+{
+    "AS_Button_c27a5d40ea374a1f9ea19d80e4d94c43": {
+        "id": "AS_Button_c27a5d40ea374a1f9ea19d80e4d94c43",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeliveryAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c915297f1af541eab033b978df1f4a14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d8692f527b9043da92396d517f2be9af",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showSignUp3();",
+            "callbackType": null
+        }]
+    }
+}

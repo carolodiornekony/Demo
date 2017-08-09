@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s68d050aaa4f4216b9d45f10ec991857",
+    "_text_": "<u>Skip</u>",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "RichText0fe3fa7f107a247",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b80baf28f6a64b17b279d0fea9066cd0",
+    "name": "kony.ui.RichText",
+    "parent": "flxSignUp1",
+    "pf": "frmAccountCreated",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

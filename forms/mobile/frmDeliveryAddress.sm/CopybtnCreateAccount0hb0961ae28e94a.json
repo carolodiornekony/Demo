@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8d861c2644c4d008703568f01ea3c33",
+    "_text_": "Done",
+    "_top_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8d861c2644c4d008703568f01ea3c33",
+    "id": "CopybtnCreateAccount0hb0961ae28e94a",
+    "ide_onClick": "AS_Button_abf19fa06a744d7ea347f12d07202a43",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "b1ec8260ae8045ecbe0f900863119b2a",
+    "name": "kony.ui.Button",
+    "parent": "flxSignUp1",
+    "pf": "frmDeliveryAddress",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

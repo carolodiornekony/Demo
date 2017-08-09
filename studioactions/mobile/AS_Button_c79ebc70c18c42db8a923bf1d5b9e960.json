@@ -1,0 +1,23 @@
+{
+    "AS_Button_c79ebc70c18c42db8a923bf1d5b9e960": {
+        "id": "AS_Button_c79ebc70c18c42db8a923bf1d5b9e960",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBizCardInstructions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jc11e6493ccf491ea39794b00698deb0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e6a58849b35b4cc2b948ae1006404bf1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickManualOption();",
+            "callbackType": null
+        }]
+    }
+}

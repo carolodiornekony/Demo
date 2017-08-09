@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_fa88d2e0de8949e9addfde3996c9143b": {
+        "id": "AS_FlexContainer_fa88d2e0de8949e9addfde3996c9143b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b12874091c794b4089824f3f02ac766a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fea449eef81e44ea8bb1a39a74916b7b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showfrmSplash();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

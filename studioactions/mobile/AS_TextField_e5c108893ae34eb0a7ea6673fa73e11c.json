@@ -1,0 +1,26 @@
+{
+    "AS_TextField_e5c108893ae34eb0a7ea6673fa73e11c": {
+        "id": "AS_TextField_e5c108893ae34eb0a7ea6673fa73e11c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmSignUp2",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d8a8a106510a478db97af48ba69802a4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fd3246218f6c46b1a08733315e84292e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onEndEditingManual();",
+            "parentId": null
+        }]
+    }
+}

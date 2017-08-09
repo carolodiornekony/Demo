@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_a48dd8418a2642d797c4b642f1e6f3d0": {
+        "id": "AS_FlexContainer_a48dd8418a2642d797c4b642f1e6f3d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmeKTPPersonalInfo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "aaecb7e7761a4440b489458769d2cdae"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ca993eb9a8d740a6a8d54743bb029395",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onBackNav();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

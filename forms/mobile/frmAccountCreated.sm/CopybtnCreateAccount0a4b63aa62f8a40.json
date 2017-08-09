@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8d861c2644c4d008703568f01ea3c33",
+    "_text_": "Verify via video chat",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8d861c2644c4d008703568f01ea3c33",
+    "id": "CopybtnCreateAccount0a4b63aa62f8a40",
+    "ide_onClick": "AS_Button_i25ce908f4554dc589ba8a77750b03ef",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "cded2f51b8ab46b5b9b59f71fe50761e",
+    "name": "kony.ui.Button",
+    "parent": "flxSignUp1",
+    "pf": "frmAccountCreated",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

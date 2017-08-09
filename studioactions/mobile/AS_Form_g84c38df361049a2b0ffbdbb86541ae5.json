@@ -1,0 +1,23 @@
+{
+    "AS_Form_g84c38df361049a2b0ffbdbb86541ae5": {
+        "id": "AS_Form_g84c38df361049a2b0ffbdbb86541ae5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAppointmentMap",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ic228dfca55f41b9944105d8d4a50630"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c403814ca23e4200a084228915cb6688",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.mapData();",
+            "parentId": null
+        }]
+    }
+}

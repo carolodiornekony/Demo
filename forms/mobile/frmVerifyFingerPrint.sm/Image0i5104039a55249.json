@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "13%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "245dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfe7b5fe705c4c009c2a62871cff7ef9",
+    "_src_": "icon_close.png",
+    "_top_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15.51%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmVerifyFingerPrint",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Image0i5104039a55249",
+    "ide_onTouchEnd": "AS_Image_c753695d2d5c48ddafe77dd2b3cfef46",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "j5d0b75c947349fd9b165d23ebfc08e9",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer0idc8e8a1cd8049",
+    "pf": "frmVerifyFingerPrint",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

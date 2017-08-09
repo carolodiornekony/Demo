@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_c1bd1f2d778547f6863e79fe3a2a2560": {
+        "id": "AS_FlexContainer_c1bd1f2d778547f6863e79fe3a2a2560",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmBizCardManual",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d3a7b5a15edc494abe87451bd9d687f5"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

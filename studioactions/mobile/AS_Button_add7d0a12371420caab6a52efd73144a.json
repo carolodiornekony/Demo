@@ -1,0 +1,23 @@
+{
+    "AS_Button_add7d0a12371420caab6a52efd73144a": {
+        "id": "AS_Button_add7d0a12371420caab6a52efd73144a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmSpalsh0i7e9e762e77644",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b085627dd4af43248bcfe73876a01433"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e6669623e3514c01b19d9f483d932ebb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showLoginflx();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "AS_TextField_fe34a27a1bbc4306a2ddfbbc238051b7": {
+        "id": "AS_TextField_fe34a27a1bbc4306a2ddfbbc238051b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmBizCardManual",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d3a7b5a15edc494abe87451bd9d687f5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f8d14675363043dc8315845ef47757a0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onEndEditingManual();",
+            "parentId": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_g13cb3fceb9f4d27baf6a4c126f05e4d": {
+        "id": "AS_FlexContainer_g13cb3fceb9f4d27baf6a4c126f05e4d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideoChat",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aaa08dca5d1e4645b43c362f9014ac29"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f1f729985acd4741a6da2b7b1e78bd33",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showAccountCreated();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

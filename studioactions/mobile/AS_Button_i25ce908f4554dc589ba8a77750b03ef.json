@@ -1,0 +1,24 @@
+{
+    "AS_Button_i25ce908f4554dc589ba8a77750b03ef": {
+        "id": "AS_Button_i25ce908f4554dc589ba8a77750b03ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountCreated",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e56403daf43840ed8cb09a1d2207e54d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f2ed13c1dd1c48c8963d9cb1392c73c4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showVideoPage();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

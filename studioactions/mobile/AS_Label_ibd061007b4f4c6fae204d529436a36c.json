@@ -1,0 +1,30 @@
+{
+    "AS_Label_ibd061007b4f4c6fae204d529436a36c": {
+        "id": "AS_Label_ibd061007b4f4c6fae204d529436a36c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAppointmentAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a3758b5b54ab478aaedf50138f0ecb13"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e433f855d54e43dc9d076c9a4daf9e5d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onStartTime();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

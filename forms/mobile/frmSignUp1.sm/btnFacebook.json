@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf17602b1d884f70985fe2d04ca1c288",
+    "_text_": "Sign up with Facebook",
+    "_top_": {
+        "type": "string",
+        "value": "-6.06%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.03%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sf17602b1d884f70985fe2d04ca1c288",
+    "id": "btnFacebook",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "c3076565eaa34166a9ee4d5b8a45826b",
+    "name": "kony.ui.Button",
+    "parent": "flxFB",
+    "pf": "frmSignUp1",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

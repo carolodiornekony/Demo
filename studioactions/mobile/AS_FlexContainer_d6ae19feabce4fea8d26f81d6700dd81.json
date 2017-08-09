@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_d6ae19feabce4fea8d26f81d6700dd81": {
+        "id": "AS_FlexContainer_d6ae19feabce4fea8d26f81d6700dd81",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAppointmentMap",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic228dfca55f41b9944105d8d4a50630"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d773bdbdc503495a8cd09aa2ae40da1f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showBackLogin();",
+            "callbackType": null
+        }]
+    }
+}

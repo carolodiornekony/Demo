@@ -1,0 +1,26 @@
+{
+    "AS_TextField_gca54c9977b0470d9fc649a6b7ecd6fc": {
+        "id": "AS_TextField_gca54c9977b0470d9fc649a6b7ecd6fc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmConfirmPIN",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d1f208a4429c4b79997bc8803f5ebd9e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ad9ee2b18f1248d98db38e29a0795bc5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.tbx6onDone();",
+            "parentId": null
+        }]
+    }
+}

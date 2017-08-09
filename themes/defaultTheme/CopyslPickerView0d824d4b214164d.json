@@ -1,0 +1,112 @@
+{
+  "android": {
+    "font_name": "Avenir-Roman",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "background_color": "f22cf200",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "fontSizeInPx": false,
+  "font_color": "000000ff",
+  "font_name": "",
+  "font_size": 125,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "iphone": {
+    "font_name": "Avenir-Roman",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "GenericMonospace",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "kuid": "sbd18f00563444c68f783f8a513159eb",
+  "spaan": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "spaandroidtablet": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "spabb": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "spaip": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "spaipad": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "spawindowstablet": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "spawinphone8": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "tabrcandroid": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "wType": "PickerView",
+  "watchos": {
+    "font_name": "Arial",
+    "font_size": 125,
+    "isForked": false
+  },
+  "windows8": {
+    "font_name": "GenericMonospace",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  },
+  "winphone8": {
+    "font_name": "GenericMonospace",
+    "font_size": 125,
+    "isForked": false,
+    "wType": "PickerView"
+  }
+}

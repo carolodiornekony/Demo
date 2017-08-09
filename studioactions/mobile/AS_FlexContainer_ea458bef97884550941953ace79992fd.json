@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_ea458bef97884550941953ace79992fd": {
+        "id": "AS_FlexContainer_ea458bef97884550941953ace79992fd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAppointmentAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a3758b5b54ab478aaedf50138f0ecb13"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a852115261f746a78312e8115227f126",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setTimeValue();",
+            "parentId": null
+        }]
+    }
+}

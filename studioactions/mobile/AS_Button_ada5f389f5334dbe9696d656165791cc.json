@@ -1,0 +1,24 @@
+{
+    "AS_Button_ada5f389f5334dbe9696d656165791cc": {
+        "id": "AS_Button_ada5f389f5334dbe9696d656165791cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEndQuestions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c28ef705acf14d349ce76af7e45e2b9c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f89b16a4113d441095e078569fa08a5d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.endQuestionsFormComplete();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

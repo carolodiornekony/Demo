@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_if719bcd28914797917bae2632dbd55d": {
+        "id": "AS_FlexContainer_if719bcd28914797917bae2632dbd55d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBizDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g4770da558c34951a53713cf3f34b52c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h47b7ff63b774d20b401eb013df1d394",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onBackNav();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

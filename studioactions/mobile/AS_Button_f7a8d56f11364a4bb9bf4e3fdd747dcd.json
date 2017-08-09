@@ -1,0 +1,23 @@
+{
+    "AS_Button_f7a8d56f11364a4bb9bf4e3fdd747dcd": {
+        "id": "AS_Button_f7a8d56f11364a4bb9bf4e3fdd747dcd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmVerificationSuccessful0ce3e6607ecd64f",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e53e0b1b803543acae8318b30d6f5d51"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_h05be85dbeb9496c8fdc08a8f7dff009",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showVerifyfrm();",
+            "callbackType": null
+        }]
+    }
+}

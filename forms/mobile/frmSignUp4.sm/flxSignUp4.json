@@ -1,0 +1,68 @@
+{
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "82%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "seff616126084f8097f48e5ffb76893e",
+    "_top_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopylblPersonalDetails0g7976054706245",
+        "CopyflxName0b5829703e27544",
+        "CopyflxName0c98ca391b8174c",
+        "CopyflxName0c7244598acb747",
+        "CopyflxName0g613c3244bb940",
+        "CopyflxName0af24d2d5835e45",
+        "CopyflxLinkedIn0a763bb9a77294d"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxSignUp4",
+    "ide_onClick": "AS_FlexContainer_a56803c76dd247fd9521724eb36663b4",
+    "info": null,
+    "isvisible": false,
+    "kuid": "fb3dd2fe687b408dbdf33e6653486742",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMain",
+    "pf": "frmSignUp4",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "lock": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc83f70012774d4b87409cb5d0386f13",
+    "_text_": "Activate",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sc83f70012774d4b87409cb5d0386f13",
+    "id": "btnActivate",
+    "ide_onClick": "AS_Button_j9c2c5401ca246488ad9c87a66b6c044",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "fdf48bb6118043d88dd867ade839f7b0",
+    "name": "kony.ui.Button",
+    "parent": "flxSignUp1",
+    "pf": "frmLogin",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

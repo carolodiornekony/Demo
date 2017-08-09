@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_ee40e758ca414724b37381e9df843faa": {
+        "id": "AS_FlexContainer_ee40e758ca414724b37381e9df843faa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVerifyFingerPrint",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j06e290554484928ad93212374b0c0b5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aab88ee0bbed426a8df49adcb23eec57",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.touchIdAuthentication();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

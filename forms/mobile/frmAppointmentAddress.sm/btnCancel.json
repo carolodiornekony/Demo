@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd1fc14aa91e4cd7bc11215a06ef2cbd",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd1fc14aa91e4cd7bc11215a06ef2cbd",
+    "id": "btnCancel",
+    "ide_onClick": "AS_Button_i97c68e57a9c489d854d8bbb81e650ca",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "e98f207d274944c1974625d5fafcfd0b",
+    "name": "kony.ui.Button",
+    "parent": "flxSpinner",
+    "pf": "frmAppointmentAddress",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

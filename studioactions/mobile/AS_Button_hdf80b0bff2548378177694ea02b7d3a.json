@@ -1,0 +1,23 @@
+{
+    "AS_Button_hdf80b0bff2548378177694ea02b7d3a": {
+        "id": "AS_Button_hdf80b0bff2548378177694ea02b7d3a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b12874091c794b4089824f3f02ac766a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b8385438d6bf4c76ba27cdfcfe9a3f6c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showLoginflx();",
+            "callbackType": null
+        }]
+    }
+}

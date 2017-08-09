@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_b2963f4e2e414b67b3caeb61649ceb3e": {
+        "id": "AS_FlexContainer_b2963f4e2e414b67b3caeb61649ceb3e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSetPIN",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b29675eae4a74ca396f1cc989eae8abb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c7942015dcbd412e9d3ffccf1fa91ccc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showLoginFromPIN();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

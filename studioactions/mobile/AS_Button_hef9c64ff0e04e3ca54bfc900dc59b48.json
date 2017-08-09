@@ -1,0 +1,23 @@
+{
+    "AS_Button_hef9c64ff0e04e3ca54bfc900dc59b48": {
+        "id": "AS_Button_hef9c64ff0e04e3ca54bfc900dc59b48",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmeKTPManual",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a103ac80ead74084902085afae5d4080"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c55e7d45a2f24dd1932a37fcd10e52fb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showLoginflx();",
+            "callbackType": null
+        }]
+    }
+}

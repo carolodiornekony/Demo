@@ -1,0 +1,29 @@
+{
+    "AS_RichText_e056b6eece68483ca73e462f753081fc": {
+        "id": "AS_RichText_e056b6eece68483ca73e462f753081fc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "linktext"
+        }, {
+            "datatype": "string",
+            "name": "attributes"
+        }],
+        "contextObj": {
+            "name": "frmSignUp3",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h0827cb90677417391cd11f5bff4e5cc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e0a231193fda465092b536710b22c165",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showSignUP4();",
+            "parentId": null
+        }]
+    }
+}

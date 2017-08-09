@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_a65b60b1459b408eb23a3e8b00693ed0": {
+        "id": "AS_FlexContainer_a65b60b1459b408eb23a3e8b00693ed0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBizCardInstructions",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jc11e6493ccf491ea39794b00698deb0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__jac5b6012075470eac7cf429f3d8d39e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onBackNav();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

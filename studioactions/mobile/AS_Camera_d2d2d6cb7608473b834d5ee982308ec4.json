@@ -1,0 +1,23 @@
+{
+    "AS_Camera_d2d2d6cb7608473b834d5ee982308ec4": {
+        "id": "AS_Camera_d2d2d6cb7608473b834d5ee982308ec4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVerificationSuccessful",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a36998368e5d465d9a316e34e25076af"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onCapture_ca14d0ce44dd4f45864a572613f1d776",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showSignUP4();",
+            "callbackType": null
+        }]
+    }
+}

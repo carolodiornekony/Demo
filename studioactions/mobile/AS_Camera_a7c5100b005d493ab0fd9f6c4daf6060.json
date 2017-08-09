@@ -1,0 +1,17 @@
+{
+    "AS_Camera_a7c5100b005d493ab0fd9f6c4daf6060": {
+        "id": "AS_Camera_a7c5100b005d493ab0fd9f6c4daf6060",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onCapture_d72bb88dd1174355b4d8727fb76d9651",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showSignUP4();",
+            "callbackType": null
+        }]
+    }
+}

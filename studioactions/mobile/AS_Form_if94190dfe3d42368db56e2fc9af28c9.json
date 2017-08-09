@@ -1,0 +1,25 @@
+{
+    "AS_Form_if94190dfe3d42368db56e2fc9af28c9": {
+        "id": "AS_Form_if94190dfe3d42368db56e2fc9af28c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSignUp4",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b29ca8b015854ecca979e32eab101a6a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i94ba2329ad043b680470a500020e14b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }]
+    }
+}

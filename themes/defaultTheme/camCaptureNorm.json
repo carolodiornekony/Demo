@@ -1,0 +1,17 @@
+{
+  "background_color": "ffa103ff",
+  "bg_type": "one",
+  "border_color": "ffa103ff",
+  "border_radius": 100,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 1,
+  "font_color": "ffa103ff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "sec2bd0005f8497692428a996099ba57",
+  "wType": "Camera"
+}

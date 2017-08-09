@@ -1,0 +1,24 @@
+{
+    "AS_Form_a2b863afd0c84bbc830b9f83e5e68c9c": {
+        "id": "AS_Form_a2b863afd0c84bbc830b9f83e5e68c9c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmeKTPAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f0aac10feca84fbe86698aaf9405feb1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aebf5df5d96d4a44a465b26d6366ad33",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setCheckBoxHeight();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

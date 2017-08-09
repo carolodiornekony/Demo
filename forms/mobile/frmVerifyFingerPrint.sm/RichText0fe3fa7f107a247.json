@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se1020b53b984b1eb2220e7cf9a05e8b",
+    "_text_": "<u>Use PIN instead</u>",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "RichText0fe3fa7f107a247",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d2200be39d734673a6709240989c3749",
+    "name": "kony.ui.RichText",
+    "parent": "flxScrollMain",
+    "pf": "frmVerifyFingerPrint",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Label_e3428eaec82c4090b9475936b8344313": {
+        "id": "AS_Label_e3428eaec82c4090b9475936b8344313",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAppointmentAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a3758b5b54ab478aaedf50138f0ecb13"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g99576e3ba3849e7b003f893f93afec9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.spinnerAnimation();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

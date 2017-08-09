@@ -1,0 +1,17 @@
+{
+    "AS_Button_j18f2aa002564a23a8517e63b4345501": {
+        "id": "AS_Button_j18f2aa002564a23a8517e63b4345501",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a5cc2dd8bc9b4bf69e771c6338d3cef5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showPIN();",
+            "callbackType": null
+        }]
+    }
+}

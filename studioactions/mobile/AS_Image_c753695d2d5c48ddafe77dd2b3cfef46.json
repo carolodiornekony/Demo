@@ -1,0 +1,30 @@
+{
+    "AS_Image_c753695d2d5c48ddafe77dd2b3cfef46": {
+        "id": "AS_Image_c753695d2d5c48ddafe77dd2b3cfef46",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmVerifyFingerPrint",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j06e290554484928ad93212374b0c0b5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f210b079a6654706b3626eb22a6cdc6d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickClose();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

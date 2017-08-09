@@ -1,0 +1,17 @@
+{
+    "AS_Button_i252cea6e77b437e9592762979de7bd7": {
+        "id": "AS_Button_i252cea6e77b437e9592762979de7bd7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b265db8092af4c308d956c48b9f548b6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showSignUp2();\n",
+            "callbackType": null
+        }]
+    }
+}

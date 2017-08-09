@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9b560ba5d4d495fab4ea7ff992ff53d",
+    "_text_": "I am a TDECU customer",
+    "_top_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9b560ba5d4d495fab4ea7ff992ff53d",
+    "id": "btnExistingCustomer",
+    "ide_onClick": "AS_Button_g141aca5da1940749fa4eb3caeae8e8d",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "i15e2634b04e44639ca47c3ad2b3b887",
+    "name": "kony.ui.Button",
+    "parent": "flxSplash",
+    "pf": "frmSpalsh",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

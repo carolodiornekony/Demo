@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "sbf077a283d94da08d25fadf94f2837a",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "86%"
+    },
+    "android": {
+        "ide_onBeginEditing": "AS_TextField_jd9ac9392595414cb116b5061a1aab2c",
+        "ide_onEndEditing": "AS_TextField_e5c108893ae34eb0a7ea6673fa73e11c"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sbf077a283d94da08d25fadf94f2837a",
+    "id": "tbxMobileNumber",
+    "info": null,
+    "iphone": {
+        "ide_onBeginEditing": "AS_TextField_d7c084cd115540fb99ec1d71f0cf004d",
+        "ide_onEndEditing": "AS_TextField_ae32c0b66556450dbefe5321a9ed179f"
+    },
+    "isvisible": true,
+    "keyboardstyle": "telpad",
+    "keyboardtype": "A",
+    "kuid": "gcfc7c71f2d3403a9a4065f7baba1423",
+    "maxtextlength": 12,
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxMobileNumber",
+    "pf": "frmSignUp2",
+    "placeholderskin": "sbf077a283d94da08d25fadf94f2837a",
+    "securetextentry": false,
+    "textinputmode": "N",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

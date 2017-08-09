@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizMap",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_mode_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "calloutwidth": 40,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "defaultpinimage": "pin.png",
+    "id": "Addressmap123",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dc3ca257aa5f4ff980beb7c3691bc676",
+    "locationdata": [],
+    "mapsource": "non-native",
+    "mapsrc": "non-native",
+    "name": "kony.ui.Map",
+    "parent": "flxScrollMain",
+    "pf": "frmAppointmentAddress",
+    "provider": "google",
+    "screenlevelwidget": false,
+    "wType": "Map",
+    "zindex": 1,
+    "zoomlevel": 15
+}

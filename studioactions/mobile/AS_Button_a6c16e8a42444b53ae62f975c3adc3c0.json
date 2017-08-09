@@ -1,0 +1,23 @@
+{
+    "AS_Button_a6c16e8a42444b53ae62f975c3adc3c0": {
+        "id": "AS_Button_a6c16e8a42444b53ae62f975c3adc3c0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmeKTPCamera",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i87ec550f3cb466fb8e4f1edb46d5604"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_jd8a9ad1422443ecbe2f7c392a877c2f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showLoginflx();",
+            "callbackType": null
+        }]
+    }
+}

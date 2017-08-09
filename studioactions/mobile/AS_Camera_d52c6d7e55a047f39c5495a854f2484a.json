@@ -1,0 +1,24 @@
+{
+    "AS_Camera_d52c6d7e55a047f39c5495a854f2484a": {
+        "id": "AS_Camera_d52c6d7e55a047f39c5495a854f2484a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmeKTPInstructions",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g288c20a19284498b753183ef5516555"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e608c4afec08426f858062e8a8268edf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCaptureCam();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

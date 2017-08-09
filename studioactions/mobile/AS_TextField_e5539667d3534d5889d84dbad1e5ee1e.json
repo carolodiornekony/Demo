@@ -1,0 +1,27 @@
+{
+    "AS_TextField_e5539667d3534d5889d84dbad1e5ee1e": {
+        "id": "AS_TextField_e5539667d3534d5889d84dbad1e5ee1e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmSetPIN",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b29675eae4a74ca396f1cc989eae8abb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bfec1c1d25c0456fa5bfb82f105d71d3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.tbx1onEndEdit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

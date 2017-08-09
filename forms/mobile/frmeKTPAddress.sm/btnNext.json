@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8d861c2644c4d008703568f01ea3c33",
+    "_text_": "Next",
+    "_top_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8d861c2644c4d008703568f01ea3c33",
+    "id": "btnNext",
+    "ide_onClick": "AS_Button_hbd3ee7e3743475d9980a8bdc2ddfd16",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "jd7e8f61520d46d19ae813f6d20cd9a2",
+    "name": "kony.ui.Button",
+    "parent": "CopyflxLinkedIn0a763bb9a77294d",
+    "pf": "frmeKTPAddress",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10.00%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.03%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb3471f573cb4dad867d7d1c8884a9b8",
+    "_top_": {
+        "type": "string",
+        "value": "-1.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "focusskin": "sb3471f573cb4dad867d7d1c8884a9b8",
+    "id": "CheckBoxGroup0fda1949ddf5945",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "g49849f4ab9f4eb5b526552a6cb2ab87",
+    "masterdata": [
+        [
+            "1",
+            "My recent address is same as the above"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "paddinginpixel": false,
+    "parent": "flxSignUp2",
+    "pf": "frmeKTPAddress",
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

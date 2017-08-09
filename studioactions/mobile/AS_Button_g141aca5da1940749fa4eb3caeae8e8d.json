@@ -1,0 +1,25 @@
+{
+    "AS_Button_g141aca5da1940749fa4eb3caeae8e8d": {
+        "id": "AS_Button_g141aca5da1940749fa4eb3caeae8e8d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSpalsh",
+            "type": "forms",
+            "platform": "",
+            "KUID": "he529211a0f34b359f9bd06956f8bac8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cf88cfce2a794f8eb419138c3c63c960",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showLoginflx();",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false
+        }]
+    }
+}

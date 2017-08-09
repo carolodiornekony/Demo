@@ -1,0 +1,17 @@
+{
+    "AS_Button_b61bfba671cc4d6da3159c02ac4a8e47": {
+        "id": "AS_Button_b61bfba671cc4d6da3159c02ac4a8e47",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d5fa686a13fd481bbe279e0adc19f49a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showDLCamera();",
+            "callbackType": null
+        }]
+    }
+}

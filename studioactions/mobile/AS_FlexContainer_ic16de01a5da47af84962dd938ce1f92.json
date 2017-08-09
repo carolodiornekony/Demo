@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_ic16de01a5da47af84962dd938ce1f92": {
+        "id": "AS_FlexContainer_ic16de01a5da47af84962dd938ce1f92",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVerificationSuccessful1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ee4e0f48ecc4493298b79f2239cf23c2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ba4a6e539808471ea9c96d54846877e7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showBackSignUp1();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

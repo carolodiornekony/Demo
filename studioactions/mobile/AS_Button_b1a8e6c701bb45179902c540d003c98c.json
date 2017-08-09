@@ -1,0 +1,24 @@
+{
+    "AS_Button_b1a8e6c701bb45179902c540d003c98c": {
+        "id": "AS_Button_b1a8e6c701bb45179902c540d003c98c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeliveryAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c915297f1af541eab033b978df1f4a14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d8c6acf010764786adecb0abd01bfcd6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.OnDoneVerification();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

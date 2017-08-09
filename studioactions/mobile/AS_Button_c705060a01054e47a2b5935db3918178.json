@@ -1,0 +1,24 @@
+{
+    "AS_Button_c705060a01054e47a2b5935db3918178": {
+        "id": "AS_Button_c705060a01054e47a2b5935db3918178",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSpalsh",
+            "type": "forms",
+            "platform": "",
+            "KUID": "he529211a0f34b359f9bd06956f8bac8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__dbf3046842394af48cab072be6efda55",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showSignUp1();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

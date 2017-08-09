@@ -1,0 +1,17 @@
+{
+    "AS_Button_bea7678caf5148f7912ee3bb6af2dae9": {
+        "id": "AS_Button_bea7678caf5148f7912ee3bb6af2dae9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a1ee7b29355041d7ac71f8fdc12c0615",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.endQuestionsFormComplete();",
+            "callbackType": null
+        }]
+    }
+}

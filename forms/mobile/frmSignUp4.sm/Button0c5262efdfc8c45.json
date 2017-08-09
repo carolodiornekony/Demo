@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbf45e4f19c543adaa0186345513cb44",
+    "_text_": "Continue",
+    "_top_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se643ce08d8a46bcba1f10dcf5370295",
+    "id": "Button0c5262efdfc8c45",
+    "ide_onClick": "AS_Button_e576fe1c39de4f158aabdf579cb38697",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ed4b8d81aeb34c26b14f433d8b3e863f",
+    "name": "kony.ui.Button",
+    "parent": "flxSignUp1",
+    "pf": "frmSignUp4",
+    "wType": "Button",
+    "zindex": 1
+}

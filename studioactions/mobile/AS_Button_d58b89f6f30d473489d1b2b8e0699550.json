@@ -1,0 +1,24 @@
+{
+    "AS_Button_d58b89f6f30d473489d1b2b8e0699550": {
+        "id": "AS_Button_d58b89f6f30d473489d1b2b8e0699550",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountCreated",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e56403daf43840ed8cb09a1d2207e54d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__adc7221aa62547428291951bb157ec17",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showMapAddress();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

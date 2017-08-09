@@ -1,0 +1,21 @@
+{
+    "AS_TextField_d57bd3e13d094fd19f6f47fbed1c55aa": {
+        "id": "AS_TextField_d57bd3e13d094fd19f6f47fbed1c55aa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmSetPIN",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b29675eae4a74ca396f1cc989eae8abb"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

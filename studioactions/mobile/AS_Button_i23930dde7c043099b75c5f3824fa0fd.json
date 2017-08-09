@@ -1,0 +1,24 @@
+{
+    "AS_Button_i23930dde7c043099b75c5f3824fa0fd": {
+        "id": "AS_Button_i23930dde7c043099b75c5f3824fa0fd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeliveryAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c915297f1af541eab033b978df1f4a14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h4aef7cf1a8c4f45838a5366c84f265e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.changeDeliveryAddress();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

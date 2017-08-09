@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_g1a5e4e2186e46d29c739930c7870bb4": {
+        "id": "AS_FlexContainer_g1a5e4e2186e46d29c739930c7870bb4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSignUp4",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b29ca8b015854ecca979e32eab101a6a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d08d7490e1da46cc8059aa0f38c038b1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showBackSignUp3();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

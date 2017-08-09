@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbb454deda143b5b8fb9bc120e3cd71",
+    "_text_": "You are <b>5th</b> in line",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "CopyRichText0a51bc0dda6d949",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bf8ab7e7b5234c56befe853a414ec89b",
+    "name": "kony.ui.RichText",
+    "parent": "flxSignUp1",
+    "pf": "frmVideoCallBack",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

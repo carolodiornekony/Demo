@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s44ce9d6c58c4cf7ac60fcec4a23b0a7",
+    "_text_": "00:00 AM",
+    "_top_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "57%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblTime",
+    "ide_onTouchEnd": "AS_Label_e3428eaec82c4090b9475936b8344313",
+    "ide_onTouchStart": "AS_Label_ibd061007b4f4c6fae204d529436a36c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "d2728d75eeac4912a60055783ea9d643",
+    "name": "kony.ui.Label",
+    "parent": "CopyflxMobileNumber0c66a1499e7ad46",
+    "pf": "frmAppointmentAddress",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

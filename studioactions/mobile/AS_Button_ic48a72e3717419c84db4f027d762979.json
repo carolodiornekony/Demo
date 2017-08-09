@@ -1,0 +1,23 @@
+{
+    "AS_Button_ic48a72e3717419c84db4f027d762979": {
+        "id": "AS_Button_ic48a72e3717419c84db4f027d762979",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAppointmentMap",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic228dfca55f41b9944105d8d4a50630"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a309e10a34ba42b38d9027b94b543a1a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showSignUp2();",
+            "callbackType": null
+        }]
+    }
+}

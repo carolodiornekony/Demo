@@ -1,0 +1,17 @@
+{
+    "AS_Button_f12cbd4b37e04bd49dd71d26a093933c": {
+        "id": "AS_Button_f12cbd4b37e04bd49dd71d26a093933c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d103417cf7a440e5a29ae1e17f600056",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showLoginflx();",
+            "callbackType": null
+        }]
+    }
+}

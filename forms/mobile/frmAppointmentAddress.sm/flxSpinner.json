@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "-50%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sd61667c6b784b6eb8e8e1d4cfa7d428",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "pckTime",
+        "flxLine",
+        "btnCancel",
+        "CopybtnCancel0d35faeccbc5a4c",
+        "FlexContainer0f027b28036b84e",
+        "CopyFlexContainer0ha8fa6578a8645"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "flxSpinner",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f87ef2414ed24ff09ef0c7869b49a0ab",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "flxTrans",
+    "percent": true,
+    "pf": "frmAppointmentAddress",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 10
+}

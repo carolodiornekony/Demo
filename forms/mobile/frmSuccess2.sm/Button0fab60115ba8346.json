@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdc60ad3a47448eda2d1d4b2866583a8",
+    "_text_": "CONTINUE",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se643ce08d8a46bcba1f10dcf5370295",
+    "id": "Button0fab60115ba8346",
+    "ide_onClick": "AS_Button_edc74df532904caa9a179af00496b6dd",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c70de5fe718c4ff485d8cc0daab4dd74",
+    "name": "kony.ui.Button",
+    "parent": "flxSuccessMessage",
+    "pf": "frmSuccess2",
+    "wType": "Button",
+    "zindex": 1
+}

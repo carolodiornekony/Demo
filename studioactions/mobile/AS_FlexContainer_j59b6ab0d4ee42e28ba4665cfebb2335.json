@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_j59b6ab0d4ee42e28ba4665cfebb2335": {
+        "id": "AS_FlexContainer_j59b6ab0d4ee42e28ba4665cfebb2335",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmEnterPIN",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b9b16bab57ac498fa57a998619333774"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

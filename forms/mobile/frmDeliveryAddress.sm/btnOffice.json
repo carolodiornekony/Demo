@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbaf5ec5874144a59763a48c9c4b50b0",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sbaf5ec5874144a59763a48c9c4b50b0",
+    "id": "btnOffice",
+    "ide_onClick": "AS_Button_b413beeb54204747a0034f783d80780a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d9deccee38a1457ea5be3b56a8500ac6",
+    "name": "kony.ui.Button",
+    "parent": "CopyflxHome0f91160d38ad749",
+    "pf": "frmDeliveryAddress",
+    "wType": "Button",
+    "zindex": 1
+}

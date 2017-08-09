@@ -1,0 +1,24 @@
+{
+    "AS_Button_dfdae811fcce4478a50efe4e547e3a15": {
+        "id": "AS_Button_dfdae811fcce4478a50efe4e547e3a15",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAppointmentAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a3758b5b54ab478aaedf50138f0ecb13"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ed4ae69d626e4a05b5399e0f6a640300",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.OnDoneVerification();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

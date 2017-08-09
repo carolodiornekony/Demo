@@ -1,0 +1,18 @@
+{
+    "AS_Button_j1dcc58bb67a47c8bfc3357ae8783ca2": {
+        "id": "AS_Button_j1dcc58bb67a47c8bfc3357ae8783ca2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f11c08d753a842f6973b41afeee83660",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.successFormContinue();",
+            "callbackType": null,
+            "disabled": false
+        }]
+    }
+}
