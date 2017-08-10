@@ -622,7 +622,7 @@ define("frmSignUp4A", function() {
             "enabledForIdleTimeout": false,
             "id": "frmSignUp4A",
             "layoutType": kony.flex.FREE_FORM,
-            "needAppMenu": true,
+            "needAppMenu": false,
             "skin": "slForm"
         }, {
             "displayOrientation": constants.FORM_DISPLAY_ORIENTATION_PORTRAIT,
@@ -639,15 +639,7 @@ define("frmSignUp4A", function() {
             "inputAccessoryViewType": constants.FORM_INPUTACCESSORYVIEW_CANCEL,
             "needsIndicatorDuringPostShow": false,
             "retainScrollPosition": false,
-            "titleBar": true,
-            "titleBarConfig": {
-                "renderTitleText": true,
-                "prevFormTitle": false,
-                "titleBarLeftSideView": "button",
-                "labelLeftSideView": "Back",
-                "titleBarRightSideView": "button",
-                "labelRightSideView": "Edit"
-            },
+            "titleBar": false,
             "titleBarSkin": "slTitleBar"
         }]
     }

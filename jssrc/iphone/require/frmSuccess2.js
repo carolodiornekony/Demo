@@ -133,6 +133,7 @@ define("frmSuccess2", function() {
                 "wrapping": constants.WIDGET_TEXT_WORD_WRAP
             });
             var Button0fab60115ba8346 = new kony.ui.Button({
+                "centerX": "50%",
                 "focusSkin": "slButtonGlossRed",
                 "height": "50dp",
                 "id": "Button0fab60115ba8346",
@@ -161,7 +162,7 @@ define("frmSuccess2", function() {
             "enabledForIdleTimeout": false,
             "id": "frmSuccess2",
             "layoutType": kony.flex.FREE_FORM,
-            "needAppMenu": true,
+            "needAppMenu": false,
             "postShow": controller.AS_Form_d55f1984d9374106bbb65a314b601d95,
             "preShow": controller.AS_Form_a5ebd3a4d9ce4e31a68e848450090562,
             "skin": "CopyslForm0e8ebb8fc79834b"
@@ -180,15 +181,7 @@ define("frmSuccess2", function() {
             "inputAccessoryViewType": constants.FORM_INPUTACCESSORYVIEW_CANCEL,
             "needsIndicatorDuringPostShow": false,
             "retainScrollPosition": false,
-            "titleBar": true,
-            "titleBarConfig": {
-                "renderTitleText": true,
-                "prevFormTitle": false,
-                "titleBarLeftSideView": "button",
-                "labelLeftSideView": "Back",
-                "titleBarRightSideView": "button",
-                "labelRightSideView": "Edit"
-            },
+            "titleBar": false,
             "titleBarSkin": "slTitleBar"
         }]
     }

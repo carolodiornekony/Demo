@@ -1,6 +1,6 @@
-define("frmSuccess", function() {
+define("frmSuccess2", function() {
     return function(controller) {
-        function addWidgetsfrmSuccess() {
+        function addWidgetsfrmSuccess2() {
             this.setDefaultUnit(kony.flex.DP);
             var successContainer = new kony.ui.FlexContainer({
                 "autogrowMode": kony.flex.AUTOGROW_NONE,
@@ -71,6 +71,10 @@ define("frmSuccess", function() {
                 "left": "3%",
                 "skin": "CopyslLabel0c885f093938a4f",
                 "text": "Processing...",
+                "textStyle": {
+                    "letterSpacing": 0,
+                    "strikeThrough": false
+                },
                 "top": "2%",
                 "width": "80%",
                 "zIndex": 1
@@ -79,8 +83,7 @@ define("frmSuccess", function() {
                 "padding": [0, 0, 0, 0],
                 "paddingInPixel": false
             }, {
-                "textCopyable": false,
-                "wrapping": constants.WIDGET_TEXT_WORD_WRAP
+                "textCopyable": false
             });
             var flxSuccessMessage = new kony.ui.FlexContainer({
                 "autogrowMode": kony.flex.AUTOGROW_NONE,
@@ -92,7 +95,7 @@ define("frmSuccess", function() {
                 "left": "0dp",
                 "masterType": constants.MASTER_TYPE_USERWIDGET,
                 "skin": "sknslFbox0h13f77f4d76243",
-                "top": "10dp",
+                "top": "10%",
                 "width": "100%",
                 "zIndex": 1
             }, {}, {});
@@ -104,6 +107,10 @@ define("frmSuccess", function() {
                 "left": "3%",
                 "skin": "lblGrey155",
                 "text": "Your ATM card will be delivered to mentioned address.",
+                "textStyle": {
+                    "letterSpacing": 0,
+                    "strikeThrough": false
+                },
                 "top": "4%",
                 "width": "90.67%",
                 "zIndex": 1
@@ -112,8 +119,7 @@ define("frmSuccess", function() {
                 "padding": [0, 0, 0, 0],
                 "paddingInPixel": false
             }, {
-                "textCopyable": false,
-                "wrapping": constants.WIDGET_TEXT_WORD_WRAP
+                "textCopyable": false
             });
             var CopyLabel0ad6803d95d3340 = new kony.ui.Label({
                 "centerX": "50%",
@@ -121,6 +127,10 @@ define("frmSuccess", function() {
                 "isVisible": true,
                 "left": "3%",
                 "skin": "CopyslLabel0c885f093938a4f",
+                "textStyle": {
+                    "letterSpacing": 0,
+                    "strikeThrough": false
+                },
                 "top": "4%",
                 "width": "80%",
                 "zIndex": 1
@@ -129,64 +139,53 @@ define("frmSuccess", function() {
                 "padding": [0, 0, 0, 0],
                 "paddingInPixel": false
             }, {
-                "textCopyable": false,
-                "wrapping": constants.WIDGET_TEXT_WORD_WRAP
+                "textCopyable": false
             });
-            var btnNew = new kony.ui.Button({
+            var Button0fab60115ba8346 = new kony.ui.Button({
                 "centerX": "50%",
-                "centerY": "40%",
-                "focusSkin": "btnRed0ffaaa3bdb21b48",
-                "height": "45dp",
-                "id": "btnNew",
+                "focusSkin": "slButtonGlossRed",
+                "height": "50dp",
+                "id": "Button0fab60115ba8346",
                 "isVisible": true,
-                "onClick": controller.AS_Button_g424146c6e4f4d8fb9e3d64b56db5fcb,
-                "right": "6%",
-                "skin": "btnRed0ffaaa3bdb21b48",
+                "left": "60dp",
+                "onClick": controller.AS_Button_edc74df532904caa9a179af00496b6dd,
+                "skin": "CopybtnRed0d4652c5539f744",
                 "text": "CONTINUE",
                 "top": "10%",
-                "width": "62%"
+                "width": "260dp",
+                "zIndex": 1
             }, {
                 "contentAlignment": constants.CONTENT_ALIGN_CENTER,
                 "displayText": true,
                 "padding": [0, 0, 0, 0],
                 "paddingInPixel": false
-            }, {
-                "showProgressIndicator": false
-            });
-            flxSuccessMessage.add(lblMessage, CopyLabel0ad6803d95d3340, btnNew);
+            }, {});
+            flxSuccessMessage.add(lblMessage, CopyLabel0ad6803d95d3340, Button0fab60115ba8346);
             successContainer.add(FlexContainer09d07d8fed6c64b, lblProcessing, flxSuccessMessage);
             this.add(successContainer);
         };
         return [{
-            "addWidgets": addWidgetsfrmSuccess,
-            "bounces": false,
-            "enableScrolling": false,
+            "addWidgets": addWidgetsfrmSuccess2,
             "enabledForIdleTimeout": false,
-            "id": "frmSuccess",
+            "id": "frmSuccess2",
             "layoutType": kony.flex.FREE_FORM,
             "needAppMenu": false,
-            "postShow": controller.AS_Form_f9d0740dcc1e4587b1084fa5b98d96a3,
-            "preShow": controller.AS_Form_f943acb65adc4bb9b1193530c483f2fa,
-            "skin": "CopyfrmNormalBG0gb207e72dcde4d",
-            "statusBarHidden": false
+            "postShow": controller.AS_Form_d55f1984d9374106bbb65a314b601d95,
+            "preShow": controller.AS_Form_a5ebd3a4d9ce4e31a68e848450090562,
+            "skin": "CopyslForm0e8ebb8fc79834b"
         }, {
             "displayOrientation": constants.FORM_DISPLAY_ORIENTATION_PORTRAIT,
             "layoutType": kony.flex.FREE_FORM,
             "padding": [0, 0, 0, 0],
             "paddingInPixel": false
         }, {
-            "bounces": false,
-            "configureExtendBottom": false,
-            "configureExtendTop": false,
-            "configureStatusBarStyle": false,
             "footerOverlap": false,
-            "formTransparencyDuringPostShow": "100",
             "headerOverlap": false,
-            "inputAccessoryViewType": constants.FORM_INPUTACCESSORYVIEW_NEXTPREV,
-            "needsIndicatorDuringPostShow": false,
+            "menuPosition": constants.FORM_MENU_POSITION_AFTER_APPMENU,
             "retainScrollPosition": false,
-            "titleBar": false,
-            "titleBarSkin": "slTitleBar"
+            "titleBar": true,
+            "titleBarSkin": "slTitleBar",
+            "windowSoftInputMode": constants.FORM_ADJUST_PAN
         }]
     }
 });

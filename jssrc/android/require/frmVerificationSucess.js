@@ -193,7 +193,7 @@ define("frmVerificationSucess", function() {
             });
             var CheckBoxGroup0g4180dbcf86f44 = new kony.ui.CheckBoxGroup({
                 "centerX": "50%",
-                "height": "120dp",
+                "height": "124dp",
                 "id": "CheckBoxGroup0g4180dbcf86f44",
                 "isVisible": true,
                 "left": "5dp",
@@ -203,8 +203,8 @@ define("frmVerificationSucess", function() {
                     ["cbg3", "Order Checks"]
                 ],
                 "skin": "slCheckBoxGroup",
-                "top": "10dp",
-                "width": "90%",
+                "top": "20dp",
+                "width": "60.00%",
                 "zIndex": 1
             }, {
                 "itemOrientation": constants.CHECKBOX_ITEM_ORIENTATION_VERTICAL,
@@ -212,7 +212,7 @@ define("frmVerificationSucess", function() {
                 "paddingInPixel": false
             }, {});
             var CopybtnCreateAccount0d25f5eee1bdd40 = new kony.ui.Button({
-                "centerX": "50%",
+                "centerX": "50.00%",
                 "focusSkin": "btnYellow",
                 "height": "50dp",
                 "id": "CopybtnCreateAccount0d25f5eee1bdd40",
@@ -220,7 +220,7 @@ define("frmVerificationSucess", function() {
                 "onClick": controller.AS_Button_gb82fd7008fd43ee832bad1f255559b0,
                 "skin": "btnYellow",
                 "text": "Continue",
-                "top": "15%",
+                "top": "15.00%",
                 "width": "90%",
                 "zIndex": 1
             }, {
@@ -240,7 +240,7 @@ define("frmVerificationSucess", function() {
             "id": "frmVerificationSucess",
             "layoutType": kony.flex.FREE_FORM,
             "needAppMenu": false,
-            "skin": "slForm"
+            "skin": "CopyslForm0d792766dabd24e"
         }, {
             "displayOrientation": constants.FORM_DISPLAY_ORIENTATION_PORTRAIT,
             "layoutType": kony.flex.FREE_FORM,

@@ -222,7 +222,27 @@ define("frmSignUp4", function() {
                 "padding": [0, 0, 0, 0],
                 "paddingInPixel": false
             }, {});
-            flxSignUp1.add(imgSelfie);
+            var Button0c5262efdfc8c45 = new kony.ui.Button({
+                "bottom": "20%",
+                "centerX": "50%",
+                "focusSkin": "slButtonGlossRed",
+                "height": "50dp",
+                "id": "Button0c5262efdfc8c45",
+                "isVisible": true,
+                "left": "45dp",
+                "onClick": controller.AS_Button_e576fe1c39de4f158aabdf579cb38697,
+                "skin": "CopybtnYellow0e06033ab99514a",
+                "text": "Continue",
+                "top": "80%",
+                "width": "260dp",
+                "zIndex": 1
+            }, {
+                "contentAlignment": constants.CONTENT_ALIGN_CENTER,
+                "displayText": true,
+                "padding": [0, 0, 0, 0],
+                "paddingInPixel": false
+            }, {});
+            flxSignUp1.add(imgSelfie, Button0c5262efdfc8c45);
             flxScrollMain.add(flxSignUp1);
             var flxSignUp4 = new kony.ui.FlexContainer({
                 "autogrowMode": kony.flex.AUTOGROW_NONE,

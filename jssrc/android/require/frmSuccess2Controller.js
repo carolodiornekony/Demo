@@ -118,14 +118,14 @@ define({
         // chosen all the featrues we want?
         // if we've just selected appointment...
         kony.print("***** successFormContinue ");
-        var nvf = new kony.mvc.Navigation("frmSpalsh");
+        var nvf = new kony.mvc.Navigation("frmEndQuestions");
         nvf.navigate();
     },
-    "AS_Form_f943acb65adc4bb9b1193530c483f2fa": function AS_Form_f943acb65adc4bb9b1193530c483f2fa(eventobject) {
+    "AS_Form_a5ebd3a4d9ce4e31a68e848450090562": function AS_Form_a5ebd3a4d9ce4e31a68e848450090562(eventobject) {
         var self = this;
         this.successFormPreShow();
     },
-    "AS_Form_f9d0740dcc1e4587b1084fa5b98d96a3": function AS_Form_f9d0740dcc1e4587b1084fa5b98d96a3(eventobject) {
+    "AS_Form_d55f1984d9374106bbb65a314b601d95": function AS_Form_d55f1984d9374106bbb65a314b601d95(eventobject) {
         var self = this;
         this.successFormPostShow();
     }

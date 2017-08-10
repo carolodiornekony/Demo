@@ -1,5 +1,10 @@
 function skinsInit() {
+    CopybtnRed0d4652c5539f744 = "CopybtnRed0d4652c5539f744";
+    CopybtnRed0d913e07b67b542 = "CopybtnRed0d913e07b67b542";
+    CopybtnRed0ed3b8dd66e7f48 = "CopybtnRed0ed3b8dd66e7f48";
+    CopybtnRed0id53e598a29144 = "CopybtnRed0id53e598a29144";
     CopybtnYellow0ac1f69d79c2f44 = "CopybtnYellow0ac1f69d79c2f44";
+    CopybtnYellow0e06033ab99514a = "CopybtnYellow0e06033ab99514a";
     CopyflxBlackBlur0f4b98f3561544a = "CopyflxBlackBlur0f4b98f3561544a";
     CopyflxWhiteBG0d27ee3867bc44c = "CopyflxWhiteBG0d27ee3867bc44c";
     CopyflxWhiteBG0e573e641823d40 = "CopyflxWhiteBG0e573e641823d40";
@@ -34,6 +39,11 @@ function skinsInit() {
     CopyslFbox0e7553082d50043 = "CopyslFbox0e7553082d50043";
     CopyslFbox0f1ccfccce2654d = "CopyslFbox0f1ccfccce2654d";
     CopyslFbox0g6c2c46f717648 = "CopyslFbox0g6c2c46f717648";
+    CopyslForm0a7199e63bff64f = "CopyslForm0a7199e63bff64f";
+    CopyslForm0bd0adbf1e71a47 = "CopyslForm0bd0adbf1e71a47";
+    CopyslForm0d792766dabd24e = "CopyslForm0d792766dabd24e";
+    CopyslForm0e8ebb8fc79834b = "CopyslForm0e8ebb8fc79834b";
+    CopyslForm0gffa60bdd9f84f = "CopyslForm0gffa60bdd9f84f";
     CopyslForm0he24d43dc34842 = "CopyslForm0he24d43dc34842";
     CopyslLabel0c72c76a26a744a = "CopyslLabel0c72c76a26a744a";
     CopyslLabel0c885f093938a4f = "CopyslLabel0c885f093938a4f";

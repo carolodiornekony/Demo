@@ -11,6 +11,7 @@ define({
         kony.mvc.registry.add("frmConfirmPIN", "frmConfirmPIN", "frmConfirmPINController");
         kony.mvc.registry.add("frmDeliveryAddress", "frmDeliveryAddress", "frmDeliveryAddressController");
         kony.mvc.registry.add("frmDrvLicenseCamera", "frmDrvLicenseCamera", "frmDrvLicenseCameraController");
+        kony.mvc.registry.add("frmEndQuestions", "frmEndQuestions", "frmEndQuestionsController");
         kony.mvc.registry.add("frmEnterPIN", "frmEnterPIN", "frmEnterPINController");
         kony.mvc.registry.add("frmLogin", "frmLogin", "frmLoginController");
         kony.mvc.registry.add("frmSetPIN", "frmSetPIN", "frmSetPINController");
@@ -18,8 +19,9 @@ define({
         kony.mvc.registry.add("frmSignUp2", "frmSignUp2", "frmSignUp2Controller");
         kony.mvc.registry.add("frmSignUp3", "frmSignUp3", "frmSignUp3Controller");
         kony.mvc.registry.add("frmSignUp4", "frmSignUp4", "frmSignUp4Controller");
+        kony.mvc.registry.add("frmSignUp4A", "frmSignUp4A", "frmSignUp4AController");
         kony.mvc.registry.add("frmSpalsh", "frmSpalsh", "frmSpalshController");
-        kony.mvc.registry.add("frmSuccess", "frmSuccess", "frmSuccessController");
+        kony.mvc.registry.add("frmSuccess2", "frmSuccess2", "frmSuccess2Controller");
         kony.mvc.registry.add("frmVerificationSuccessful", "frmVerificationSuccessful", "frmVerificationSuccessfulController");
         kony.mvc.registry.add("frmVerificationSucess", "frmVerificationSucess", "frmVerificationSucessController");
         kony.mvc.registry.add("frmVerifyFingerPrint", "frmVerifyFingerPrint", "frmVerifyFingerPrintController");

@@ -4,9 +4,9 @@ define({
         ntf.navigate();
     },
     "OnDoneVerification": function() {
-        var ntf = new kony.mvc.Navigation("frmSuccess");
+        var ntf = new kony.mvc.Navigation("frmSuccess2");
         ntf.navigate({
-            "message": "Your ATM card will be delivered to mentioned address."
+            "message": "Your products will be delivered to mentioned address."
         });
     },
     "changeDeliveryAddress": function() {

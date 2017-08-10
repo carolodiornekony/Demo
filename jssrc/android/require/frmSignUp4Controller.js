@@ -5,7 +5,7 @@ define({
     },
     "onClickNextOne": function() {
         gCameraShow = false;
-        var ntf = new kony.mvc.Navigation("frmAccountCreated");
+        var ntf = new kony.mvc.Navigation("frmSignUp4A");
         ntf.navigate();
     },
     "onClickNext": function() {
@@ -17,6 +17,10 @@ define({
         var self = this;
         this.showBackSignUp3();
     },
+    "AS_Button_e576fe1c39de4f158aabdf579cb38697": function AS_Button_e576fe1c39de4f158aabdf579cb38697(eventobject) {
+        var self = this;
+        this.onClickNextOne();
+    },
     "AS_Button_aec39d8d029d4cfb87d1615fd608e49b": function AS_Button_aec39d8d029d4cfb87d1615fd608e49b(eventobject) {
         var self = this;
         this.onClickNextOne();
@@ -27,8 +31,5 @@ define({
     },
     "AS_Form_if94190dfe3d42368db56e2fc9af28c9": function AS_Form_if94190dfe3d42368db56e2fc9af28c9(eventobject) {
         var self = this;
-        if (gCameraOn) {
-            frmSignUp4.flxMain.flxSignUp4.isVisible = true;
-        } else frmSignUp4.flxMain.flxSignUp4.isVisible = false;
     }
 })

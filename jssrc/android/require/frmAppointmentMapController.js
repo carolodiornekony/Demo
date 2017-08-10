@@ -11,8 +11,8 @@ define({
         this.view.Addressmap.locationData = [{
             lat: "29.716131",
             lon: "-95.388718",
-            name: "Bank Da-95.388718namon",
-            desc: " Rasuna Said",
+            name: "TDECU",
+            desc: "TDECU",
             image: "pin.png"
         }];
     },

@@ -5,7 +5,9 @@ define({
     },
     "showSignUP4": function(showCamera) {
         gCameraOn = showCamera;
-        var ntf = new kony.mvc.Navigation("frmSignUp4");
+        var ntf;
+        if (gCameraOn) ntf = new kony.mvc.Navigation("frmSignUp4");
+        else ntf = new kony.mvc.Navigation("frmSignUp4A");
         ntf.navigate();
     },
     "AS_FlexContainer_ceda5ae1598448f7aa8cc3335c01da49": function AS_FlexContainer_ceda5ae1598448f7aa8cc3335c01da49(eventobject) {

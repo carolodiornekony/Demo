@@ -1,9 +1,8 @@
 define({
     "showLoginflx": function() {
-        var ntf = new kony.mvc.Navigation("frmLogin");
-        ntf.navigate({
-            "textBoxData": ""
-        });
+        alert("This feature not currently setup");
+        //var ntf = new kony.mvc.Navigation("frmLogin");
+        //ntf.navigate({"textBoxData":""});
     },
     "showSignUp1": function() {
         var ntf = new kony.mvc.Navigation("frmSignUp1");

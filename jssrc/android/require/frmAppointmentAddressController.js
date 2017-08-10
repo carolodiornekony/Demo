@@ -1,6 +1,6 @@
 define({
     "OnDoneVerification": function() {
-        var ntf = new kony.mvc.Navigation("frmSuccess");
+        var ntf = new kony.mvc.Navigation("frmSuccess2");
         ntf.navigate({
             "message": "Your appointment has been confirmed."
         });

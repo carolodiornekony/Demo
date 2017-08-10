@@ -264,7 +264,7 @@ define("frmDrvLicenseCamera", function() {
             "id": "frmDrvLicenseCamera",
             "layoutType": kony.flex.FREE_FORM,
             "needAppMenu": false,
-            "skin": "slForm"
+            "skin": "CopyslForm0gffa60bdd9f84f"
         }, {
             "displayOrientation": constants.FORM_DISPLAY_ORIENTATION_PORTRAIT,
             "layoutType": kony.flex.FREE_FORM,
